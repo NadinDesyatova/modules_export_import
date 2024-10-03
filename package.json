@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NadinDesyatova/modules_webpack.git"
+    "url": "git+https://github.com/NadinDesyatova/modules_export_import.git"
   },
   "keywords": [
     "game"
@@ -18,9 +18,9 @@
   "author": "NadinDesyatova",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NadinDesyatova/modules_webpack/issues"
+    "url": "https://github.com/NadinDesyatova/modules_export_import/issues"
   },
-  "homepage": "https://github.com/NadinDesyatova/modules_webpack#readme",
+  "homepage": "https://github.com/NadinDesyatova/modules_export_import#readme",
   "devDependencies": {
     "@babel/cli": "^7.25.6",
     "@babel/core": "^7.25.2",
